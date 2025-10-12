@@ -1,0 +1,1 @@
+cd /workspaces/Spring-Boot-on-EKS/SpringBootOnEKS && mvn spring-boot:run
