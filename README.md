@@ -16,6 +16,10 @@ pre-requisites:
 Step 1: Create Spring Boot App
 ![alt text](image-3.png)
 
+
+
+
+
 Spring Boot 3.2.0 - Dependencies
 ![alt text](image-4.png)
 Spring Web
@@ -27,3 +31,13 @@ cd SpringBootOnEKS
 
 Adding the final project name to spring boot
 ![alt text](image-5.png)
+AWS ECR image URI
+320233820907.dkr.ecr.us-east-1.amazonaws.com/springboot-eks:latest
+![alt text](image-6.png)
+AWS Account:
+subbarao.cloud2023@gmail.com
+
+![alt text](image-7.png)
+
+step 4: create eks cluster in aws
+![alt text](image-8.png)
