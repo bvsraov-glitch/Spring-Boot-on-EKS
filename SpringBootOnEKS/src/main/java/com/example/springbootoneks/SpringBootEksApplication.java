@@ -16,9 +16,9 @@ public class SpringBootEksApplication {
         return "Welcome to javatechie ! app deployed in AWS EKS";
     }
     
-    @RequestMapping("/")
-    public RedirectView redirectToGreetings() {
-        return new RedirectView("/greetings");
+    @GetMapping("/")
+    public String helloWorld() {
+        return "helloworld";
     }
 
     public static void main(String[] args) {

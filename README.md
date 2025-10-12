@@ -21,6 +21,9 @@ Spring Boot 3.2.0 - Dependencies
 Spring Web
 JDK 17
 Lombok
+mavenmkdir SpringBootOnEKS
+cd SpringBootOnEKSmkdir SpringBootOnEKS
+cd SpringBootOnEKS
 
 Adding the final project name to spring boot
 ![alt text](image-5.png)
